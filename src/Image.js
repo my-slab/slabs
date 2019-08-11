@@ -13,4 +13,9 @@ Image.defaultProps = {
 }
 
 Image.displayName = 'Image'
+
+Image.propTypes = {
+  ...Box.propTypes
+}
+
 export default Image
