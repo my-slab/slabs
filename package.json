@@ -1,0 +1,8 @@
+{
+  "name": "slabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mylsb/slabs.git",
+  "author": "Mitchell Stewart <mitchell.stewart@mylsb.email>",
+  "license": "MIT"
+}
